@@ -1,0 +1,1 @@
+Cuando se divide por 0 te responde el numero Infinity si es double y si es int responde el maximo del int que es 2147483647
