@@ -14,9 +14,9 @@ class Calculadora {
     }
 
     public static double division(double a, double b) {
-      //  if (b == 0)
-      //  {            throw new IllegalArgumentException("No se puede dividir por cero");
-    // }
+        if (b == 0)
+        {            throw new IllegalArgumentException("No se puede dividir por cero");
+     }
         return  a / b;
     }
 }
